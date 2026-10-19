@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/bambinos/bambi/commit/ef4097dc61589c74c6e6c3c48a989a9be6c1553b",
       "git:hexsha": "ef4097dc61589c74c6e6c3c48a989a9be6c1553b",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-19T11:50:14.022656+00:00"
     },
     {
       "@id": "https://repolex.ai/r/bambinos/bambi/commit/8ebf3e016243186a0c96cc9ed76884282e1bba20",
